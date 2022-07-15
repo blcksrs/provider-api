@@ -10,6 +10,8 @@
 
 - php artisan serve
 
+## click the register button first
+- to create new user
 
 ## example ADD
 - Provider Name: Test1
